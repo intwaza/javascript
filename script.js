@@ -1,5 +1,5 @@
 function getgrade(marks) {
-    var marks = -1;
+    var marks = 84;
     if (marks>=80){
     console.log(grade="A")
 }
