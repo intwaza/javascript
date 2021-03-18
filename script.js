@@ -16,7 +16,7 @@ else if(marks>=0 && marks<=49){
     console.log(grade="E")
 }
 else{
-    console.log("sanything else")
+    console.log("anything else")
 }
 }
 getgrade();
